@@ -33,6 +33,8 @@ open main.py, modify file_path, table_id and sql_command
 ```
 python main.py
 ```
+![image](https://user-images.githubusercontent.com/8756642/212266818-5444a0e9-eb2c-4275-bfe1-305e18a1d427.png)
+
 
 ## Check
 Open Bigquery to check table data
